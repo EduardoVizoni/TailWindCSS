@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vista Verde</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+</head>
+<body class="bg-gray-100 font-sans">
+    <header>
+        <div class="bg-yellow-950 md:flex md:place-content-between md:pr-8 ">
+            <div class=" flex justify-center">
+            <img src="Imagens/logo-vista-verde.png" alt="logo">
+        </div>
+        <nav class="md:flex md:items-center">
+            <ul class="flex text-black gap-10 justify-center py-5 md:text-xl md:gap-14 md:flex-row">
+                <li><a href="index.html" class="hover:text-green-600">HOME</a></li>
+                <li><a href="/Pages/sobre.html" class="hover:text-green-600">SOBRE</a></li>
+                <li><a href="/Pages/" class="hover:text-green-600">PRODUTOS</a></li>
+            </ul>
+        </nav>
+        </div>
+    </header>
+    <section class="bg-cover bg-center" style="background-image: url(/Imagens/banner.jpg);">
+        <div class="text-center text-white py-32 md:py-64">
+            <h4 class="text-2xl pb-12 font-semibold md:text-6xl md:py-24">Beleza Natural em Seu Espaço</h4>
+            <a class="bg-black p-8 rounded shadow mt-4 text-xl"
+                href="#">Descubra Mais</a>
+        </div>
+    </section>
+    <section class="px-4 md:px-16 mb-12">
+        <div class="flex flex-col md:flex-row gap-8 pt-10">
+            <div class="flex-1">
+                <img src="Imagens/vista-verde.jpg" class="w-full h-auto" alt="Boas-vindas">
+            </div>
+            <div class="flex-1">
+                <p class="text-lg text-justify">A Vista Verde é especialista em trazer vida aos ambientes através de plantas ornamentais selecionadas. Com mais de 20 anos de experiência, oferecemos soluções verdes personalizadas para lares e escritórios. Conecte-se com a natureza onde você estiver</p>
+            </div>
+        </div>
+    </section>
+    <section class="px-4 md:px-16">
+        <h1 class="text-3xl font-semibold mb-8">Produtos</h1>
+        <div class="flex flex-col md:flex-row gap-8">
+            <div class="flex-1">
+                <div class="bg-white p-4 rounded shadow">
+                    <img src="/Imagens/ficus-capa.jpg" class="w-full h-auto mb-4" alt="Ficus Lyrata">
+                    <p class="text-lg mb-2">Ficus Lyrata</p>
+                    <a href="/Pages/produto01.html" class="bg-black text-white py-2 px-4 rounded">Saiba Mais</a>
+                </div>
+                <div class="bg-white p-4 rounded shadow mt-4">
+                    <img src="/Imagens/areca-capa.jpg" class="w-full h-auto mb-4" alt="Areca Palmeira">
+                    <p class="text-lg mb-2">Areca Palmeira</p>
+                    <a href="/Pages/produto02.html" class="bg-black text-white py-2 px-4 rounded">Saiba Mais</a>
+                </div>
+            </div>
+            <div class="flex-1">
+                <div class="bg-white p-4 rounded shadow">
+                    <img src="/Imagens/espada-capa.jpg" class="w-full h-auto mb-4" alt="Espada de São Jorge">
+                    <p class="text-lg mb-2">Espada de São Jorge</p>
+                    <a href="/Pages/produto03.html" class="bg-black text-white py-2 px-4 rounded">Saiba Mais</a>
+                </div>
+                <div class="bg-white p-4 rounded shadow mt-4">
+                    <img src="/Imagens/phalaenopsis-capa.jpg" class="w-full h-auto mb-4" alt="Orquídea Phalaenopsis">
+                    <p class="text-lg mb-2">Orquídea Phalaenopsis</p>
+                    <a href="/Pages/produto04.html" class="bg-black text-white py-2 px-4 rounded">Saiba Mais</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="bg-green-600 w-full h-20 flex items-center justify-center">
+        <p class="text-white">Vista Verde - 2024 - Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
