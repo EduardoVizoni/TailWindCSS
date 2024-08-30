@@ -1,4 +1,4 @@
-### Projeto Vista Verde
+# Projeto Vista Verde
 
 ## Visão Geral
 
@@ -44,11 +44,6 @@ O projeto está organizado da seguinte forma:
 - **`sobre.html`**: Página "Sobre Nós".
 - **`produtos.html`**: Página de produtos.
 - **`produto1.html`**, **`produto2.html`**, **`produto3.html`**, **`produto4.html`**: Páginas individuais para cada produto.
-- **`style.css`**: Arquivo CSS gerado pelo Tailwind, contendo todas as estilizações necessárias.
-- **`tailwind.config.js`**: Configurações do Tailwind CSS.
-- **`postcss.config.js`**: Configurações do PostCSS para processamento do Tailwind CSS.
-- **`src/input.css`**: Arquivo CSS de entrada para o Tailwind.
-- **`dist/style.css`**: Arquivo CSS compilado e pronto para uso.
 
 1. Baixe e instale o [Visual Studio Code](https://code.visualstudio.com/).
 2. Baixe o arquivo da prova a partir do link fornecido.
