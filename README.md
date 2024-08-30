@@ -48,7 +48,7 @@ O projeto está organizado da seguinte forma:
 1. Baixe e instale o [Visual Studio Code](https://code.visualstudio.com/).
 2. Baixe o arquivo da prova a partir do link fornecido.
 3. Abra o Visual Studio Code.
-4. Clique em "File" > "Open Folder" e selecione a pasta onde você extraiu o arquivo da prova.(https://github.com/EduardoVizoni/Web-Mobile)
+4. Clique em "File" > "Open Folder" e selecione a pasta onde você extraiu o arquivo da prova.(https://github.com/EduardoVizoni/TailWindCSS)
 5. Instale a extensão "Live Server" de Ritwick Dey. Você pode fazer isso procurando por "Live Server" na barra de extensões do Visual Studio Code e clicando em "Install".
 6. Com a pasta do projeto aberta, clique com o botão direito no arquivo `index.html` e selecione "Open with Live Server". O site será aberto no seu navegador padrão.
 
