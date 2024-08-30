@@ -1,10 +1,13 @@
-# Projeto Vista Verde
+### Projeto Vista Verde
 
-Este projeto é um site responsivo para a empresa "Vista Verde", especializada em plantas ornamentais. Utilizando HTML e Tailwind CSS, o objetivo é criar um site que reflita os valores da empresa e ofereça uma ótima experiência para o usuário.
+## Visão Geral
+
+O **Projeto Vista Verde** é uma iniciativa para criar um site responsivo para uma empresa fictícia especializada em plantas ornamentais. A "Vista Verde" tem como objetivo destacar sua expertise em transformar ambientes através da introdução de plantas cuidadosamente selecionadas. O site foi desenvolvido com uma abordagem Mobile First e foi projetado para refletir os valores de sustentabilidade e excelência no atendimento ao cliente da empresa.
 
 ## Índice
 
 - [Objetivo](#objetivo)
+- [Desafio e Transição para Tailwind CSS](#desafio-e-transicao-para-tailwind-css)
 - [Proposta do Projeto](#proposta-do-projeto)
 - [Critérios de Avaliação](#critérios-de-avaliação)
 - [Estrutura do Projeto](#estrutura-do-projeto)
@@ -15,6 +18,10 @@ Este projeto é um site responsivo para a empresa "Vista Verde", especializada e
 ## Objetivo
 
 Desenvolver um site responsivo com abordagem Mobile First para a "Vista Verde", uma empresa especializada em plantas ornamentais. O site deve ser uma vitrine para os produtos da empresa e um recurso para clientes interessados em jardinagem e decoração de interiores.
+
+## Desafio e Transição para Tailwind CSS
+
+Inicialmente, o projeto foi desenvolvido utilizando HTML e CSS. No entanto, fomos desafiados a migrar o código para o Tailwind CSS para aprimorar a responsividade e a eficiência do desenvolvimento. Devido a essa transição, foi necessário criar um novo repositório para a versão em Tailwind, resultando em poucos commits, com um commit por cada mudança feita no código original.
 
 ## Proposta do Projeto
 
